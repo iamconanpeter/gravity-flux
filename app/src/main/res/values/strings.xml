@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gravity Flux</string>
+
+    <!-- Buttons -->
+    <string name="bend_gravity">Bend Gravity</string>
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+    <string name="next">Next</string>
+
+    <!-- HUD templates -->
+    <string name="moves_template">Moves: %1$d</string>
+    <string name="par_template">Par: %1$d</string>
+    <string name="stars_template">Stars: %1$d</string>
+
+    <!-- Overlays -->
+    <string name="won_template">Cleared!\n%1$d ★</string>
+    <string name="failed">Flux lost!\nTap Reset</string>
+
+    <string name="hint_tap">Tap to bend gravity</string>
+</resources>
